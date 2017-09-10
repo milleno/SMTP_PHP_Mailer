@@ -1,0 +1,34 @@
+#######################################################
+
+Nome do projeto: SMTP Locaweb via PHPMailer
+Versão: 1.2
+Autor: Jeckson Peixoto Alves
+
+#######################################################
+
+FUNÇÃO
+-------------------------------------------------------
+Enviar emails de teste através do SMTP Locaweb usando a aplicação PHPMailer.
+
+
+REQUISITOS
+-------------------------------------------------------
+
+- PHP 5.2.3
+
+
+
+INSTALAÇÃO
+-------------------------------------------------------
+
+- Descompacte o arquivo.
+- O teste de API estará na pasta /api.
+- Transfira o conteúdo da pasta para o diretório padrão de seu FTP. Ex: public_html, Web, htdocs.
+
+
+
+TROUBLESHOOTING
+-------------------------------------------------------
+
+- Caso ocorra erro de timezone, verifique se seu php.ini possuí essa diretiva. Ex: date.timezone = America/Sao_Paulo.
+- Outros erros, verifique seu log de erros ou procure ajuda em http://php.net.

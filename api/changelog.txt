@@ -1,0 +1,9 @@
+﻿#######################################################
+						CHANGELOG		
+#######################################################
+
+14/08/2015
+
+- Mudanças no visual da página afim de melhorar a visualização e padronizar a interface usando o tema Bootstrap Flatly --> https://bootswatch.com/flatly/
+- Possibilidade de enviar HTML sem escapar as aspas com barras invertidas "\" no campo "mensagem".
+

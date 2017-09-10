@@ -1,0 +1,16 @@
+.smtplw-header {
+	margin: 0 auto;
+	padding: 0 auto;
+	border-radius: 0;
+	moz-border-radius: 0;
+	webkit-border-radius: 0;
+}
+
+.smtplw-banner {
+	margin: 30px 60px 0 0;
+}
+
+.smtplw-error > p {
+	font-size: 1.0em;
+	font-weight: bolder;
+}
